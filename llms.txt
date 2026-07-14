@@ -1,0 +1,12 @@
+# Simulador de Financiamento Imobiliário — Márcio Santos
+
+> Simulador gratuito de financiamento imobiliário para Itu/SP e região (Indaiatuba, Salto, Sorocaba, Cabreúva), baseado nas regras públicas da Caixa Econômica Federal. Calcula parcelas SAC e PRICE, uso de FGTS, ITBI de Itu/SP, custas de aquisição e elegibilidade ao Minha Casa Minha Vida (MCMV Faixas 1 a 4).
+
+Mantido por Márcio Santos, corretor de imóveis (CRECI-SP 276471-F), atendendo Itu e região — interior de São Paulo.
+
+## Conteúdo principal
+- [Simulador de Financiamento](https://marcio-itu.github.io/simulador-financiamento-imoveis-itu/): calculadora interativa de financiamento habitacional (SAC/PRICE, FGTS, ITBI, MCMV).
+
+## Contato
+- WhatsApp: (11) 3280-6090
+- Instagram: https://www.instagram.com/corretor_marcio_itu

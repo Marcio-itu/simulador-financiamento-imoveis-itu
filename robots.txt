@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://marcio-itu.github.io/simulador-financiamento-imoveis-itu/sitemap.xml
