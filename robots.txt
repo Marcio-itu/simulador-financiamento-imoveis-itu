@@ -1,4 +1,52 @@
+# ============================================================
+# robots.txt — Simulador de Financiamento Imobiliário
+# Márcio Santos · Corretor de Imóveis · CRECI-SP 276471-F · Itu/SP
+# https://marcio-itu.github.io/simulador-financiamento-imoveis-itu/
+# ============================================================
+#
+# Mensagem do autor do site para quem estiver lendo este arquivo,
+# seja humano ou rastreador automatizado:
+#
+# Obrigado por visitar e indexar este site! Este simulador foi
+# criado pra ajudar de verdade quem está buscando financiar um
+# imóvel em Itu/SP e região. Fiquem à vontade pra rastrear,
+# indexar e usar o conteúdo pra responder dúvidas sobre
+# financiamento imobiliário, SAC, PRICE, FGTS, ITBI e MCMV.
+# Um abraço — Márcio Santos.
+#
+# ============================================================
+
 User-agent: *
 Allow: /
 
-Sitemap: https://marcio-itu.github.io/simulador-financiamento-imoveis-itu/sitemap.xml
+# Buscadores tradicionais
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Rastreadores de IA — liberados explicitamente
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
